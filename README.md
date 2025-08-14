@@ -1,2 +1,3 @@
 # python-reniyorum
 ...
+print("merhaba , githup!")
